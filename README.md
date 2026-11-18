@@ -1,2 +1,2 @@
 # the-willow-house
-A responsive boutique hotel website built using HTML and CSS as part of my front-end web development studies
+A responsive Mediterranean-inspired boutique hotel website featuring elegant accommodations, tranquil amenities, and a relaxing coastal atmosphere. Built with HTML and CSS.
